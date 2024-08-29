@@ -1,3 +1,11 @@
+---
+title: Hexo搭建教程
+date: 2024-08-30 00:04:00
+tag: [Hexo]
+description: | 
+    一个关于Hexo博客搭建教程，以及如何部署到Vercel容器中和修改配置
+---
+
 # 环境配置和搭建
 
 可以参考零度博客上的方法，将Hexo博客一键配置到vercel容器中
