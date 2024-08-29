@@ -52,6 +52,14 @@ card:
         Description
         ...
     iconLinks:
+        github:
+            theme: "brands"
+            name: "github"
+            link: "https://github.com/moli721"
+        x-twitter:
+            theme: "brands"
+            name: "x-twitter"
+            link: "https://x.com/moli721"
     friendLinks:
         Argvchs: https://argvchs.github.io
 
@@ -91,7 +99,7 @@ crypto:
 
 # Search
 search:
-    enable: false
+    enable: true
 
 # giscus
 # https://github.com/giscus/giscus
